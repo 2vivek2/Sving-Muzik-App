@@ -153,10 +153,13 @@ transform: scale(1.1);
     background-position: right;
     background-color: #222;
     background-blend-mode: overlay;
+    width: 85%;
+
   }
   .songList h1{
     font-size: 1.5rem;
     padding-top: 10px;
+    text-align: center;
   }
   .songItemContainer{
     margin-top: 30px;
@@ -193,4 +196,7 @@ padding-left: 65px;
 text-align: center;
 }
 
+.home{
+    padding-left: 30px;
+}
 }
